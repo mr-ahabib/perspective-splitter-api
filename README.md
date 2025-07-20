@@ -6,9 +6,9 @@
 
 ---
 # installation Packages
-npm init -y
-npm install express mysql2 sequelize dotenv bcryptjs jsonwebtoken cors
-npm install --save-dev nodemon
+- npm init -y
+- npm install express mysql2 sequelize dotenv bcryptjs jsonwebtoken cors
+- npm install --save-dev nodemon
 ---
 ## 📜 Project Overview
 
