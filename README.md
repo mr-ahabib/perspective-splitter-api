@@ -5,7 +5,11 @@
 </p>
 
 ---
-
+# installation Packages
+npm init -y
+npm install express mysql2 sequelize dotenv bcryptjs jsonwebtoken cors
+npm install --save-dev nodemon
+---
 ## 📜 Project Overview
 
 **Perspective Splitter** is a unique backend API designed to power apps that foster critical thinking and self-reflection.
